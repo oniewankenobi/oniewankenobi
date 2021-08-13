@@ -42,7 +42,8 @@ const clarissa = {
 </p>
 
 <p align='center'>
-<a href="#"><img src="https://badges.pufler.dev/visits/oniewankenobi/oniewankenobi?color=black&logo=github&a=0"></a> curious stalkers have come here 👀
+  <a href="#"><img src="https://badges.pufler.dev/visits/oniewankenobi/oniewankenobi?color=black&logo=github&a=0"></a> curious stalkers have come here since it was
+  <a href='#'><img src="https://badges.pufler.dev/created/oniewankenobi/oniewankenobi?color=black"></a>
 </p>
 
 <!--
