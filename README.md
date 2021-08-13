@@ -1,4 +1,4 @@
-<!-- MAKE A BANNER -->
+<!-- make a banner when the effort is mustered -->
 
 ## Hi there 👋 I'm Clarissa 🤡
 
@@ -12,7 +12,7 @@
 </p>
 
 <!-- 
-FOR WHEN I HAVE MORE TO SHOW OFF!
+for when i actually create some useful things lmao
 ![Repos Badge](https://badges.pufler.dev/repos/oniewankenobi?style=for-the-badge&color=red)  
 ![github stats](https://github-readme-stats.vercel.app/api?username=oniewankenobi&count_private=true&show_icons=true&theme=dracula)
 -->
