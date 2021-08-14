@@ -33,7 +33,7 @@ const clarissa = {
   hobbies: {
     the_ocean: ["Freediving", "Scuba Diving"],
     music: ["Listening", "Piano", "Singing"],
-    adventures: ["Spontaneous Travel", "Hidden Sunset Spots", "Aimless Wanders"]
+    adventures: ["Spontaneous Travel", "Hidden Sunset Spots", "Aimless Wanders"],
   },
 };
 ```
