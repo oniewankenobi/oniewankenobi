@@ -24,10 +24,10 @@ const clarissa = {
   ux: [Figma, HTML/CSS, Adobe Photoshop],
   
   interests: {
-    mental_health: "Check out the project I'm working on @ moodihealth.com!",
+    mental_health: "Check out the project I'm working on @ meemosworld.com!",
     product_development: ["Early Stage", "Growth"],
     psychology: "Human-Centred Design",
-    tech: ["Neuroprosthetics", "BCI"],
+    tech: ["Web3", "Neuroprosthetics", "BCI"],
   },
   
   hobbies: {
